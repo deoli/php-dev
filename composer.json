@@ -1,0 +1,16 @@
+{
+    "name": "deoli/php-dev",
+    "description": "PHP dev environment for quick tests",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "deoli",
+            "email": "deoli@hotmail.com"
+        }
+    ],
+    "require": {}
+}
