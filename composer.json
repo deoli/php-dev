@@ -12,5 +12,8 @@
             "email": "deoli@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.4",
+        "ext-gd": "*"
+    }
 }
